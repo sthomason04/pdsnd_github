@@ -13,5 +13,7 @@ This is a series of analyses exploring the customers of Bikeshare: who are they,
 Raw data in .csv files were provided by the company.
 Data originated from 3 cities: Chicago, New York City, and Washington D.C.
 
+Figures generated using ggplot.
+
 ### Credits
 N/A
