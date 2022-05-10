@@ -8,6 +8,12 @@ Exploring Customers of Bikeshare
 
 ### Description
 This is a series of analyses exploring the customers of Bikeshare: who are they, how do they use Bikeshare.
+Questions analyzed:
+
+1. How many bikes are rented daily, and what is the average rental length?
+
+2. Within different user type categories, how many people identify as men or women?
+3. What is the most common route used by customers in each city?
 
 ### Files used
 Raw data in .csv files were provided by the company.
